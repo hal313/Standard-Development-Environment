@@ -2,12 +2,11 @@
 https://hal313.github.io/dev-env/
 
 // Main:
-++ TODO: specify network name
+++ TODO: Readme's in githubs (html*, remote*, proxy, dev-env, sde)
 ++ TODO: Tag all repos/images
 ++ TODO: Check that build dockers on CI works (fix keys)
-++ TODO: Readme's in githubs (html*, remote*, proxy, dev-env, sde)
+++ TODO: test meta update / document / write script or add to README
 // TODO: Generator Website
-++         put docker file / bash script content in collapse
 ++         instructions
 ++           install docker / docker-compose
 ++           setup all git repos
@@ -18,3 +17,4 @@ https://hal313.github.io/dev-env/
 ++         instructions
 ++           how to use ide
 ++           ngrok example
+++           browser-sync example
