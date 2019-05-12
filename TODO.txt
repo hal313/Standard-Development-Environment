@@ -1,11 +1,6 @@
 // The "standard development environment" builder
 https://hal313.github.io/dev-env/
 
-// Main:
-++ TODO: Readme's in githubs (html*, remote*, proxy, dev-env, sde)
-++ TODO: Tag all repos/images
-++ TODO: Check that build dockers on CI works (fix keys)
-++ TODO: test meta update / document / write script or add to README
 // TODO: Generator Website
 ++         instructions
 ++           install docker / docker-compose
