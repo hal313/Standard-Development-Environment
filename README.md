@@ -28,6 +28,9 @@ Generally speaking, a user uses the [environment generator](https://hal313.githu
 
 More details can be found on the [generator site](https://github.com/hal313/dev-env#usage).
 
+## Git Modules
+
+This repository is mostly a tracking repository which uses git modules. [This primer](https://www.vogella.com/tutorials/GitSubmodules/article.html#creating-repositories-with-submodules) shows basic usage.
 
 ## TODO
 Currently, only one environment can exist on a host system because container names are not dynamically referenced in the proxy configuration (the generator does support prefix/suffix naming of containers).
