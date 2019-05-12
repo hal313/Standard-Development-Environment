@@ -1,0 +1,32 @@
+[submodule "html-01"]
+	path = html-01
+	url = git@github.com:hal313/html-01.git
+	branch = master
+[submodule "html-02"]
+	path = html-02
+	url = git@github.com:hal313/html-02.git
+	branch = master
+[submodule "html-03"]
+	path = html-03
+	url = git@github.com:hal313/html-03.git
+	branch = master
+[submodule "remote-03"]
+	path = remote-03
+	url = git@github.com:hal313/remote-03.git
+	branch = master
+[submodule "remote-02"]
+	path = remote-02
+	url = git@github.com:hal313/remote-02.git
+	branch = master
+[submodule "remote-01"]
+	path = remote-01
+	url = git@github.com:hal313/remote-01.git
+	branch = master
+[submodule "reverse-proxy"]
+	path = reverse-proxy
+	url = git@github.com:hal313/reverse-proxy.git
+	branch = master
+[submodule "dev-env"]
+	path = dev-env
+	url = git@github.com:hal313/dev-env.git
+	branch = master
